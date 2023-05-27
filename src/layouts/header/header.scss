@@ -1,0 +1,17 @@
+.layout-header {
+    display: flex;
+    justify-content: space-between;
+    &__logo {
+      margin: auto 0;
+    }
+    &__nav {
+      margin: auto 0;
+    }
+    &__list {
+      display: flex;
+      gap: 63px;
+    }
+    &__link {
+      margin: auto 0;
+    }
+  }
